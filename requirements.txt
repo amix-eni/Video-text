@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+youtube-transcript-api
+groq
+fpdf
+python-dotenv
+ffmpeg-python
